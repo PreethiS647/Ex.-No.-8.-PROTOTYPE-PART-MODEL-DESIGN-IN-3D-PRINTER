@@ -34,6 +34,8 @@
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
 ![image](https://github.com/PreethiS647/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147313372/dde445f3-6d31-4ac9-a48a-a8e11f1162b4)
+![image](https://github.com/PreethiS647/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/147313372/b5264e79-ceae-4850-8aa7-a18308985db4)
+
 
 
 
